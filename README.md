@@ -23,8 +23,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/your-solution-link)
-- **Live Site URL**: [Live Site on Netlify](https://your-live-site-url.netlify.app)
+- **Solution URL**: https://www.frontendmentor.io/solutions/qr-code-component-solution-i2LrDmzdjc
+- **Live Site URL**: https://qr-code-component-solution-frontend.netlify.app/
 
 ## My process
 
@@ -68,7 +68,7 @@ body {
 
 
 ### Author
+- Twitter – @Benjaminkissa1,
 
 - Frontend Mentor – @Bensolve
 
-- Twitter – @Benjaminkissa1
