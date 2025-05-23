@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). This challenge helped me strengthen my understanding of basic HTML and CSS layout techniques.
+This is my solution to the [QR code component challenge on Frontend Mentor] https://www.frontendmentor.io/solutions/qr-code-component-solution-_qV4qAXUlx. This challenge helped me strengthen my understanding of basic HTML and CSS layout techniques.
 
 ## Table of contents
 
