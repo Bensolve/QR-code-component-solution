@@ -64,6 +64,13 @@ body {
   text-align: center;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
 }
+```
+
+### continuee development
+- 🔄 Will  Add input for users to generate their own QR codes.
+- 💾 Include option to download the generated QR code.
+- 🔍 Display preview of the URL being encoded.
+- 🖼️ Enable QR code scanning from uploaded images (optional advanced).
 
 
 
