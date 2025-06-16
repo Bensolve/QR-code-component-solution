@@ -5,6 +5,7 @@
   --color-title: hsl(218, 44%, 22%);
   --qr-dark-color: hsl(218, 44%, 22%);  /* Dark blue, replaces black */
   --qr-light-color: #ffffff; /* White background */
+  --box-shadow: 0 1rem 1.5rem rgba(0, 0, 0, 0.1);
 }
 
 * {
@@ -26,7 +27,7 @@ body {
   margin: 6.25rem auto; /* 100px approx */
   padding: 1rem;
   border-radius: 1rem;
-  box-shadow: 0 1rem 1.5rem rgba(0, 0, 0, 0.1);
+  box-shadow: var(--box-shadow);
   text-align: center;
 }
 
